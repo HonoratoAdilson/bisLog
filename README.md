@@ -7,8 +7,6 @@ Realtime logistical package tracking with Android.
 This project is a software that can be used as a logistical package tracking software.
 It links the delivery with the package hash, where the user can access the website and see where exactly his package was.
 
-A few resources to get you started if this is your first Flutter project:
-
 ## Why did you decide to develop this software?
 
 As my last year in the university, I had to do something really useful and I aways wanted to learn how to make Android/iOS applications, so me and my group decide to make an logistical realtime tracking software, for those people who get ancious to know where his package is.
